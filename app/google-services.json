@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870246772527",
+    "project_id": "tokokelontong-28aae",
+    "storage_bucket": "tokokelontong-28aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870246772527:android:ef011a344b93b3d84d3bda",
+        "android_client_info": {
+          "package_name": "com.example.tokokelontong1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870246772527-amc1p3s7c7fpv83gr536bn0gt8but778.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMu1XzHCjpqUXlcGMB0aPefqt5QHgB6Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870246772527-amc1p3s7c7fpv83gr536bn0gt8but778.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
